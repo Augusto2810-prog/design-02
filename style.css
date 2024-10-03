@@ -50,6 +50,10 @@ nav{
   justify-content: space-between;
 }
 
+.link-01 {
+    color: darkslateblue;
+}
+
 .nav-logo a{
   font-size: 1.2rem;
   font-weight: 600;
@@ -76,7 +80,8 @@ nav{
 }
 
 .link:hover{
-  color: darkslateblue;
+  color: #80422b;
+  text-decoration: underline;
 }
 
 .nav-icons{
