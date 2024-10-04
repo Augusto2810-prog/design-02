@@ -41,6 +41,25 @@ a{
   text-decoration: none;
 }
 
+.icon-01 {
+  position: fixed;
+  bottom: 60px;
+  right: 4px;
+  font-size: 30px;
+  border-radius: 50%;
+  padding: 2px;
+  width: 40px;
+  height: 37px;
+  text-align: center;
+  z-index: 100;
+  box-shadow: 2px 2px 2px #c0bdbd;
+}
+
+.icon-01:hover {
+  font-weight: 900;
+  box-shadow: 2px 2px 2px #c0bdbd;
+}
+
 nav{
   max-width: var(--max-width);
   margin: auto;
